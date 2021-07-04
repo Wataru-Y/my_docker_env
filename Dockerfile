@@ -1,4 +1,4 @@
-ARG nvidia_cudagl_version=11.3.0-devel-ubuntu20.04
+ARG nvidia_cudagl_version=11.1.1-devel-ubuntu20.04
 ARG python_version=3.9.6
 ARG zsh_theme=bureau
 
